@@ -86,6 +86,7 @@ See detailed `cookiecutter-django Heroku documentation`_.
 
 Packages I am trying to integrate in the future:
 1. https://github.com/trco/django-funky-sheets/blob/master/README.rst
+2. https://github.com/handsontable/handsontable
 
 
 
