@@ -84,6 +84,9 @@ See detailed `cookiecutter-django Heroku documentation`_.
 
 .. _`cookiecutter-django Heroku documentation`: http://cookiecutter-django.readthedocs.io/en/latest/deployment-on-heroku.html
 
+Packages I am trying to integrate in the future:
+1. https://github.com/trco/django-funky-sheets/blob/master/README.rst
+
 
 
 
